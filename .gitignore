@@ -1,0 +1,6 @@
+*.csv
+.ipynb_checkpoints
+ny-postgres-taxi-data/
+*.terraform
+terraform.*
+.terraform.*
